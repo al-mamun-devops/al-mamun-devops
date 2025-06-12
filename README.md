@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Md Al-Mamun</h1>
 <h3 align="center">Full Stack Software Engineer | PHP | Laravel | Vue.js | React | Next | Nuxt</h3>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=al-mamun-devops&label=Profile%20views&color=0e75b6&style=flat" alt="al-mamun-devops" />
+</p>
 <p align="center">
   <a href="mailto:al.mamun.devops@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
