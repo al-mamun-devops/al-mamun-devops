@@ -26,7 +26,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm **Md Al-Mamun**, a dedicated Full Stack Software Engineer with **5+ years** of hands-on experience building production-grade web applications.
+I'm **Md Al-Mamun**, a dedicated Full Stack Software Engineer with **6+ years** of hands-on experience building production-grade web applications.
 
 - 🔧 Specialized in **Laravel**, **PHP**, and robust **RESTful API** development
 - 🧠 Proficient in **Vue.js**, **React**, **Next.js**, and **Nuxt.js** for rich front-end interfaces
