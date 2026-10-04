@@ -40,7 +40,7 @@ I strive for **performance**, **clean code**, and **user-focused solutions** in 
 
 ### 🚀 Tech Stack Overview
 
-> My professional toolkit includes a robust combination of backend frameworks, frontend libraries, databases, DevOps tools, operating systems, and other utilities gained from 5+ years of experience.
+> My professional toolkit includes a robust combination of backend frameworks, frontend libraries, databases, DevOps tools, operating systems, and other utilities gained from 6+ years of experience.
 
 ---
 
